@@ -1,10 +1,32 @@
-header{
-    background-color: rgb(247, 124, 1);
-    width:100% ;
-    padding: 30px;
-}
-header h1 {
-    text-decoration-color: aliceblue;
-    text-align: center;
-    font-size: 100px;
-}
+<style>
+        *{
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+        }
+
+        body{
+            font-family: Arial, Helvetica, sans-serif;
+            background-color: #f5f5f5;
+        }
+
+        /* Faixa colorida */
+        header{
+            background-color: #1E90FF;
+            color: white;
+            text-align: center;
+            padding: 30px;
+        }
+
+        header h1{
+            font-size: 40px;
+        }
+
+        main{
+            padding: 40px;
+            text-align: center;
+        }
+
+        p{
+            font-size: 20px;
+        }
