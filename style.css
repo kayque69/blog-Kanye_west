@@ -1,8 +1,9 @@
 header{
-    background-color: black;
+    background-color: rgb(247, 1, 1);
     width:100% ;
 }
 header {
     text-decoration-color: aliceblue;
     text-align: center;
+    font-size: large;
 }
