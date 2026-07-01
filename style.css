@@ -1,7 +1,8 @@
 header{
-    background-color: ;
+    background-color: black;
     width:100% ;
 }
-header img{
-    
+header {
+    text-decoration-color: aliceblue;
+    text-align: center;
 }
